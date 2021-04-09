@@ -11,3 +11,11 @@
   --git pull //从远程仓库拉取数据
   --git clone //从远程仓库拷贝数据   
   --git rm --cached fileName
+
+  2.忽略某些文件上传
+     --1. 创建 .gitignore文件
+     --2. .gitignore文件中写入忽略的文件名
+
+  3.git创建分支和操作
+    --创建分支  git branch 分支名字  
+    --
