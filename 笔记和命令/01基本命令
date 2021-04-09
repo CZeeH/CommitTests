@@ -1,0 +1,12 @@
+1.  
+  --git init //初始化本地git仓库
+  --git add <file> 添加文件 
+          -  git add *.html :添加某一类的文件
+          -  git add .  :添加所有文件  
+  --git status  //查看状态
+  --git commit //提交
+      --  :wq   退出 或者用 esc 
+  --git push //推送到仓库
+  --git pull //从远程仓库拉取数据
+  --git clone //从远程仓库拷贝数据   
+  --git rm --cached fileName
