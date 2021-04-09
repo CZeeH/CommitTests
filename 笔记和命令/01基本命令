@@ -23,9 +23,9 @@
 
   4.远程仓库的使用
     --已经创建好仓库
-      git remote add origin https://github.com/CZeeH/CommitTests.git
-      git branch -M main
-      git push -u origin main   
+      git remote add origin https://github.com/CZeeH/CommitTests.git  --创建链接
+      git branch -M main  //创建分支 -M 
+      git push -u origin main   //上传
     
     --还没有创建仓库
       echo "# CommitTests" >> README.md
